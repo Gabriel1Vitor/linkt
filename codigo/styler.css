@@ -1,0 +1,24 @@
+
+
+body {
+    font-family: "Pixelify Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400 - 700;
+    font-style: normal;
+    background-color:black;
+    background-image: url('https://cdnb.artstation.com/p/assets/images/images/066/583/817/original/camila-xiao-city-skyline2-2.gif?1693262309');
+  }
+  
+
+.button {
+        background-color: black;
+        border: none;
+        color: white;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        margin: 4px 2px;
+        cursor: pointer;
+      }
